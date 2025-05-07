@@ -1,17 +1,1 @@
-# Who's On First
-
-## What is Who's On First
-
-https://whosonfirst.org/what/
-
-## Documentation (Concepts and theory)
-
-https://github.com/whosonfirst/whosonfirst-docs
-
-## Data
-
-https://github.com/whosonfirst-data
-
-## Issues
-
-https://github.com/whosonfirst-data/whosonfirst-data/issues
+# who's on first
