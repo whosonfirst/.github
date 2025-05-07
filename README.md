@@ -1,4 +1,17 @@
-# whosonfirst
-Repo fatigue got you down?
+# Who's On First
 
-Wondering where to file an issue? Start here!
+## What is Who's On First
+
+https://whosonfirst.org/what/
+
+## Documentation (Concepts and theory)
+
+https://github.com/whosonfirst/whosonfirst-docs
+
+## Data
+
+https://github.com/whosonfirst-data
+
+## Issues
+
+https://github.com/whosonfirst-data/whosonfirst-data/issues
