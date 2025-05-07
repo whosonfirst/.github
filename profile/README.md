@@ -6,7 +6,7 @@ https://whosonfirst.org/what/
 
 ## Documentation (Concepts and theory)
 
-https://github.com/whosonfirst/whosonfirst-docs
+https://github.com/whosonfirst/whosonfirst-docs?tab=readme-ov-file#whosonfirst-docs
 
 ## Data
 
