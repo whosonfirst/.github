@@ -1,6 +1,6 @@
 # Who's On First
 
-## What is Who's On First
+## What is Who's On First?
 
 https://whosonfirst.org/what/
 
@@ -15,3 +15,7 @@ https://github.com/whosonfirst-data
 ## Issues
 
 https://github.com/whosonfirst-data/whosonfirst-data/issues
+
+## Blog
+
+https://whosonfirst.org/blog/
